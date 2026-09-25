@@ -38,12 +38,9 @@
 | [tools-master](https://github.com/YondFane/tools-master) | A collection of useful development tools |
 | [Study](https://github.com/YondFane/Study) | Programming study notes and experiments |
 
-## GitHub activity
+## Developer profile
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YondFane&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="YondFane's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YondFane&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<img src="https://raw.githubusercontent.com/YondFane/YondFane/main/assets/developer-profile.svg" width="100%" alt="YondFane's developer profile: Java and Oracle, algorithms, useful tools, and a learning mindset" />
 
 ## Contribution snake
 
@@ -52,7 +49,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YondFane/YondFane/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation of YondFane's GitHub contribution graph" src="https://raw.githubusercontent.com/YondFane/YondFane/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=YondFane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" /></p>
 
 <div align="center"><i>Keep learning. Keep building. Keep shipping.</i></div>

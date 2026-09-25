@@ -1,0 +1,20 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1022"/><stop offset="1" stop-color="#1C1240"/></linearGradient>
+    <linearGradient id="highlight" x1="150" y1="60" x2="1040" y2="258" gradientUnits="userSpaceOnUse"><stop stop-color="#4DE3FF"/><stop offset=".5" stop-color="#8970FF"/><stop offset="1" stop-color="#FF59A8"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <circle cx="1113" cy="0" r="190" fill="#714BFF" fill-opacity=".18"/><circle cx="76" cy="292" r="145" fill="#00D2FF" fill-opacity=".11"/>
+  <text x="60" y="62" fill="#DDE3FF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">DEVELOPER PROFILE</text>
+  <rect x="60" y="87" width="1080" height="2" fill="url(#highlight)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="60" y="122" width="245" height="122" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="84" y="157" fill="#9BA7D6" font-size="14" letter-spacing="2">FOCUS</text><text x="84" y="199" fill="#FFFFFF" font-size="25" font-weight="700">Java &amp; Oracle</text><text x="84" y="224" fill="#AEB9E8" font-size="15">Backend foundations</text>
+    <rect x="325" y="122" width="245" height="122" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="349" y="157" fill="#9BA7D6" font-size="14" letter-spacing="2">PRACTISE</text><text x="349" y="199" fill="#FFFFFF" font-size="25" font-weight="700">Algorithms</text><text x="349" y="224" fill="#AEB9E8" font-size="15">LeetCode in Java</text>
+    <rect x="590" y="122" width="245" height="122" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="614" y="157" fill="#9BA7D6" font-size="14" letter-spacing="2">BUILDING</text><text x="614" y="199" fill="#FFFFFF" font-size="25" font-weight="700">Useful tools</text><text x="614" y="224" fill="#AEB9E8" font-size="15">Small things, well made</text>
+    <rect x="855" y="122" width="285" height="122" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="879" y="157" fill="#9BA7D6" font-size="14" letter-spacing="2">MINDSET</text><text x="879" y="199" fill="url(#highlight)" font-size="25" font-weight="700">Learn · Ship · Repeat</text><text x="879" y="224" fill="#AEB9E8" font-size="15">One commit at a time</text>
+  </g>
+</svg>
