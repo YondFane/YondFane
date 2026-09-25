@@ -1,0 +1,14 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#090B19"/><stop offset="0.5" stop-color="#151A3A"/><stop offset="1" stop-color="#24113C"/></linearGradient>
+    <linearGradient id="accent" x1="185" y1="80" x2="990" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#4DE3FF"/><stop offset="0.5" stop-color="#7C5CFF"/><stop offset="1" stop-color="#FF4D9D"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#8E9BFF" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="72" r="150" fill="#623CFF" fill-opacity=".16"/><circle cx="1080" cy="315" r="190" fill="#FF3A92" fill-opacity=".11"/><circle cx="125" cy="330" r="140" fill="#00C8FF" fill-opacity=".12"/>
+  <path d="M710 82C865 4 1020 53 1144 146" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/><path d="M760 290C911 204 1037 252 1167 188" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-opacity=".78"/>
+  <g fill="#A9B5FF" fill-opacity=".8"><circle cx="837" cy="73" r="4"/><circle cx="1072" cy="123" r="5"/><circle cx="945" cy="276" r="4"/><circle cx="1140" cy="250" r="3"/></g>
+  <text x="88" y="122" fill="#E9ECFF" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="6">HELLO, WORLD</text><text x="84" y="195" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700">YondFane</text><text x="89" y="244" fill="#C6CBED" font-family="Arial, Helvetica, sans-serif" font-size="25">Java · Oracle · Algorithms · Tools</text>
+  <rect x="88" y="278" width="272" height="40" rx="20" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".18"/><circle cx="112" cy="298" r="7" fill="#55F6B1" filter="url(#glow)"/><text x="132" y="305" fill="#E9ECFF" font-family="Arial, Helvetica, sans-serif" font-size="17">BUILD · LEARN · REPEAT</text>
+</svg>
